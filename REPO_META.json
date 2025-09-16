@@ -1,0 +1,6 @@
+{
+    "name": "graph-rag-neo4j-starter",
+    "description": "Starter for evidence-grounded QA with GraphRAG on Neo4j and FastAPI. Ingest docs, build a graph, query with citations.",
+    "topics": [["graph-rag","neo4j","fastapi","streamlit","python","docker","nlp","mlops"]],
+    "tags": [["graph-rag","neo4j","fastapi","streamlit","python","docker","nlp","mlops"]]
+}

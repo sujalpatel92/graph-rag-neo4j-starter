@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# uv lock & cache
+.uv/
+.uv_cache/
+uv.lock
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+*.ipynb~
+
+# Logs
+*.log
+logs/
+*.out
+*.err
+
+# Coverage & testing
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.tox/
+.mypy_cache/
+.cache/
+.nox/
+
+# Build & packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Docker
+docker-data/
+docker-compose.override.yml
+
+# Neo4j
+data/
+import/
+logs/
+plugins/
+
+# Redis / OpenSearch
+redis-data/
+opensearch-data/
+
+# Streamlit
+.streamlit/
+
+# Node (if UI extensions added)
+node_modules/
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# Misc
+*.bak
+*.tmp
+*.orig
